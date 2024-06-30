@@ -1,4 +1,5 @@
 import "./App.css";
+import Fetchdata from "./component/fetchdata";
 import Displayanalysis from "./pages/displayAnalysis";
 
 function App() {
